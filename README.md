@@ -20,8 +20,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto 
-
-..Pendiente
+![Demo](imagenes/Pinterest_screen.PNG)
 
 
 ### Contacto
